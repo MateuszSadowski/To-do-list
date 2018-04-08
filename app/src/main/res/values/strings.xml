@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyWunderList</string>
+    <string name="add_item_label">Add new item to the list</string>
+    <string name="add_item_button">Add</string>
+    <string name="add_item_cancel_button">Cancel</string>
+    <string name="edit_item_label">Edit list item</string>
+    <string name="save_item_button">Save</string>
+<<<<<<< HEAD
+    <string name="preferences_sort">Sorting</string>
+    <string name="preferences_select_sorting">Sorting mode</string>
+    <string name="preferences_select_sorting_key">sorting</string>
+=======
+    <string name="sorting_method_key">sortingKey</string>
+    <string name="default_sorting_method_key">alphabetically</string>
+>>>>>>> feature/preference-fragment
+</resources>
